@@ -70,7 +70,7 @@
 </div>
 
 
-<h2>Conéctate conmigo en LinkedIn</h2>
+<h2>Connect with me on LinkedIn</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/jhonathan-r-1505a5164" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
