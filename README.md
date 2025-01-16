@@ -23,13 +23,13 @@
 
 <br><br>
 
-- :school: Soy **Desarrollador Full Stack** estudiante **Técnico Superior de Desarrollo de Aplicaciones Web**.
-- :technologist: Me encanta usar software como solución para cada problema, me gusta diseñar webs y desarrollarlas tomando en cuenta siempre la innovacion y creatividad.
-- :nerd_face: Siempre **aprendo cosas nuevas** para mejorar mis habilidades.
-- 🪪 Me sigo formando tambien en el area de Ciberseguridad y aprendiendo cada dia mas en **Cloud**.
-<br>
+- :school: I am a programmer Full Stack graduated in Web Software Application Development.
+- :technologist: I love using software as a solution to every problem. I enjoy designing and developing websites, always keeping innovation and creativity in mind.
+- :nerd_face: I'm constantly learning new things to improve my skills.
+-  🪪 I'm also continuing to develop in the field of Cybersecurity and learning more every day about Cloud.
 
-<br>
+<br><br>
+
 
 
 
@@ -79,37 +79,6 @@
 
 
 
-<h2>GitHub ▶️ </h2>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
-
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jhocoder&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jhocoder&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=jhocoder&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
 
 
 
