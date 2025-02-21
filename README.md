@@ -23,7 +23,7 @@
 
 <br><br>
 
-- :school: I am a programmer Full Stack graduated in Web Software Application Development.
+- :school: I am a programmer student Full Stack Web Software Application Development.
 - :technologist: I love using software as a solution to every problem. I enjoy designing and developing websites, always keeping innovation and creativity in mind.
 - :nerd_face: I'm constantly learning new things to improve my skills.
 -  🪪 I'm also continuing to develop in the field of Cybersecurity and learning more every day about Cloud.
