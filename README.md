@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
     <img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white" />
     <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&logo=api&logoColor=white" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  
 </div>
 
 **Bases de Datos**
@@ -74,7 +74,6 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
     <img src="https://img.shields.io/badge/ORM-000000?style=for-the-badge&logo=orm&logoColor=white" />
 </div>
@@ -88,7 +87,6 @@
     <img src="https://img.shields.io/badge/CICD-000000?style=for-the-badge&logo=github-actions&logoColor=white" />
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-    <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
     <img src="https://img.shields.io/badge/Pytest-000000?style=for-the-badge&logo=pytest&logoColor=white" />
     <img src="https://img.shields.io/badge/Shell_Scripting-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
