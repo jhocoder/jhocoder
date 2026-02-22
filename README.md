@@ -23,10 +23,12 @@
 
 <br><br>
 
-:school: I am a Full Stack Web Software Application Developer.
-:technologist: I am passionate about using software to solve problems. I enjoy designing and developing websites, always focusing on innovation and creativity.
-:nerd_face: I am constantly learning new technologies to enhance my skills.
-🪪 I am also further developing my expertise in Cloud technologies.
+🚀 Full Stack Engineer building scalable web applications and AI-powered solutions.
+⚙️ Experienced in backend development, APIs, message queues, and distributed data processing.
+🧠 Exploring and implementing LLM integrations, RAG systems, and intelligent workflows.
+☁️ Continuously improving in Cloud infrastructure, DevOps, and Data Engineering.
+📚 Focused on building real-world, production-ready systems while constantly learning.
+
 
 <br><br>
 
