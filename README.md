@@ -45,10 +45,6 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/SASS-C69B7B?style=for-the-badge&logo=sass&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 ---
@@ -63,19 +59,28 @@
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
     <img src="https://img.shields.io/badge/Event_Driven-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
-    <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socket.io&logoColor=white" />
 </div>
 
 ---
 
-### 🧠 AI & LLM Integrations  
+### 🧠 AI & LLM Systems  
 <div>
     <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=protocolsio&logoColor=white" />
     <img src="https://img.shields.io/badge/LLM_Agents-000000?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/API_Integrations-000000?style=for-the-badge&logo=postman&logoColor=white" />
+</div>
+
+---
+
+### 📊 Data Engineering  
+<div>
+    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+    <img src="https://img.shields.io/badge/ETL-000000?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data_Pipelines-000000?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Distributed_Processing-000000?style=for-the-badge&logo=apache&logoColor=white" />
 </div>
 
 ---
@@ -109,7 +114,6 @@
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
     <img src="https://img.shields.io/badge/Pytest-000000?style=for-the-badge&logo=pytest&logoColor=white" />
 </div>
-
 
 <h2>Connect with me on LinkedIn</h2>
 <p align="center">
