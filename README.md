@@ -23,11 +23,7 @@
 
 <br><br>
 
-🚀 Full Stack Engineer building scalable web applications and AI-powered solutions.
-⚙️ Experienced in backend development, APIs, message queues, and distributed data processing.
-🧠 Exploring and implementing LLM integrations, RAG systems, and intelligent workflows.
-☁️ Continuously improving in Cloud infrastructure, DevOps, and Data Engineering.
-📚 Focused on building real-world, production-ready systems while constantly learning.
+🚀 Full Stack Engineer building scalable web applications.
 
 
 <br><br>
